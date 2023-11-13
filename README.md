@@ -1,5 +1,7 @@
 ### Hi there 👋
 Aspiring Golang Developer!
+
+Going the long way as a technical architect!
 <!--
 **saveusalex/saveusalex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
